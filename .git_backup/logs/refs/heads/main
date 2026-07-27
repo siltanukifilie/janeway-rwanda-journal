@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 2147e91f6e634b20af36f550655c3a2ba5c1cf25 sltanu_kifile <sltanu_kifile@ric-986.localdomain> 1785182837 +0200	clone: from https://github.com/BirkbeckCTP/janeway.git
+2147e91f6e634b20af36f550655c3a2ba5c1cf25 b99bf48ecd014a53ce032855480effa1295f2fc5 Sltanu <siltanukifilie@gmail.com> 1785188031 +0200	commit: Prepare Janeway for Render deployment
+b99bf48ecd014a53ce032855480effa1295f2fc5 b99bf48ecd014a53ce032855480effa1295f2fc5 Sltanu <siltanukifilie@gmail.com> 1785188966 +0200	Branch: renamed refs/heads/master to refs/heads/main
